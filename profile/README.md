@@ -2,7 +2,7 @@
 
 **Open-source digital public services**
 
-CiteLibre is a suite of ready-to-deploy digital services provided by [**Lutece**]([Lutece](https://lutece.paris.fr/)) to help public administrations simplify interactions with citizens and modernize administrative processes.
+CiteLibre is a suite of ready-to-deploy digital services provided by [Lutece](https://lutece.paris.fr/) to help public administrations simplify interactions with citizens and modernize administrative processes.
 
 Built on the open-source Lutece platform, CiteLibre service packs are designed to be **reusable, customizable, and containerized**. Adapt them to your organization's branding, infrastructure, and workflows — without starting from scratch.
 
